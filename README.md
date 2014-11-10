@@ -9,6 +9,14 @@ The application was originally written for my personal use, but I finally releas
 
 I thank everyone that used the application over the years. But, I would like to personally thank, [Bret Kuhns](http://www.bretkuhns.com/) for being the beta tester, and letting me abuse his Facebook account from time to time. Also I would like to thank the people that donated to get hosting for FlickrImportr (Anonymous, [Andre Pang](http://algorithm.com.au/), [Bret Kuhns](http://www.bretkuhns.com/), [Corey Blaz](http://www.coreyblaz.com/), [Diego Calderon (COLOMBIA Birding)](http://www.colombiabirding.com/), Mark Sheppard and Paul Albertella).
 
+And some statistics for the curious...
+
+* Publicly Available For: 2 years, 10 months, 8 days
+* Albums Created: 395,817
+* Photos Imported: 1,274,640
+* Number of users: 5,331
+* Emails from Flickr about API abuse: 1
+
 ##Technical Details
 
 FlickrImportr was written with [CakePHP](http://www.cakephp.org). First on 1.0, and has been upgraded over the years to Cake 1.3. While hosted it used mySQL. A database dump of all the database schema can be found in the root of the repository.
